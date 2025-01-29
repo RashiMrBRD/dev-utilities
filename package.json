@@ -1,0 +1,22 @@
+{
+  "name": "dev-utilities",
+  "version": "1.0.0",
+  "description": "A collection of useful development utilities and tools",
+  "main": "utils.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "utilities",
+    "development",
+    "tools",
+    "helpers"
+  ],
+  "author": "RashiMrBRD",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0"
+  }
+}
